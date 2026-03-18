@@ -32,10 +32,10 @@
   <p align="center">
     This is a sample app used to demonstrate using KaneAI.
     <br />
-    <a href="https://github.com/ddewinter/youtube-kaneai-linktree-testing-app"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ddewinter/youtube-kaneai-linktree-sample-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ddewinter/youtube-kaneai-linktree-testing-app/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/ddewinter/youtube-kaneai-linktree-sample-app/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
   </p>
 </div>
 
@@ -70,9 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `ddewinter`, `youtube-kaneai-linktree-testing-app`, `twitter_handle`, `ddewinter`, `david_client`, `david`, `project_title`, `project_description`, `Unlicense License`
+This is a small demo app designed to be used with [KaneAI](https://www.testmuai.com/kane-ai/). This emulates a LinkTree-style app for a single user designed to manage and display their list of links on a public page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,7 +95,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ddewinter/youtube-kaneai-linktree-testing-app.git
+   git clone https://github.com/ddewinter/youtube-kaneai-linktree-sample-app.git
    ```
 2. Install NPM packages
    ```sh
@@ -149,8 +147,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/ddewinter/youtube-kaneai-linktree-testing-app/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ddewinter/youtube-kaneai-linktree-testing-app" alt="contrib.rocks image" />
+<a href="https://github.com/ddewinter/youtube-kaneai-linktree-sample-app/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ddewinter/youtube-kaneai-linktree-sample-app" alt="contrib.rocks image" />
 </a>
 
 
@@ -169,7 +167,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 David DeWinter - [@ddewinter](https://linkedin.com/in/ddewinter) - david@dewintermedia.com
 
-Project Link: [https://github.com/ddewinter/youtube-kaneai-linktree-testing-app](https://github.com/ddewinter/youtube-kaneai-linktree-testing-app)
+Project Link: [https://github.com/ddewinter/youtube-kaneai-linktree-sample-app](https://github.com/ddewinter/youtube-kaneai-linktree-sample-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,16 +184,16 @@ Project Link: [https://github.com/ddewinter/youtube-kaneai-linktree-testing-app]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ddewinter/youtube-kaneai-linktree-testing-app.svg?style=for-the-badge
-[contributors-url]: https://github.com/ddewinter/youtube-kaneai-linktree-testing-app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ddewinter/youtube-kaneai-linktree-testing-app.svg?style=for-the-badge
-[forks-url]: https://github.com/ddewinter/youtube-kaneai-linktree-testing-app/network/members
-[stars-shield]: https://img.shields.io/github/stars/ddewinter/youtube-kaneai-linktree-testing-app.svg?style=for-the-badge
-[stars-url]: https://github.com/ddewinter/youtube-kaneai-linktree-testing-app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ddewinter/youtube-kaneai-linktree-testing-app.svg?style=for-the-badge
-[issues-url]: https://github.com/ddewinter/youtube-kaneai-linktree-testing-app/issues
-[license-shield]: https://img.shields.io/github/license/ddewinter/youtube-kaneai-linktree-testing-app.svg?style=for-the-badge
-[license-url]: https://github.com/ddewinter/youtube-kaneai-linktree-testing-app/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ddewinter/youtube-kaneai-linktree-sample-app.svg?style=for-the-badge
+[contributors-url]: https://github.com/ddewinter/youtube-kaneai-linktree-sample-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ddewinter/youtube-kaneai-linktree-sample-app.svg?style=for-the-badge
+[forks-url]: https://github.com/ddewinter/youtube-kaneai-linktree-sample-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/ddewinter/youtube-kaneai-linktree-sample-app.svg?style=for-the-badge
+[stars-url]: https://github.com/ddewinter/youtube-kaneai-linktree-sample-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ddewinter/youtube-kaneai-linktree-sample-app.svg?style=for-the-badge
+[issues-url]: https://github.com/ddewinter/youtube-kaneai-linktree-sample-app/issues
+[license-shield]: https://img.shields.io/github/license/ddewinter/youtube-kaneai-linktree-sample-app.svg?style=for-the-badge
+[license-url]: https://github.com/ddewinter/youtube-kaneai-linktree-sample-app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ddewinter
 [product-screenshot]: images/screenshot.png
