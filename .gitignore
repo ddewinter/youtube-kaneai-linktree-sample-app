@@ -1,0 +1,5 @@
+node_modules
+dist
+linkbio.db
+linkbio.db-shm
+linkbio.db-wal
